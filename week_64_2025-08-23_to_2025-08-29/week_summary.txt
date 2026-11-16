@@ -1,0 +1,10 @@
+UPDL HAFTA week_64_2025-08-23_to_2025-08-29
+Hafta window  : 2025-08-23 se 2025-08-29
+Har index ka folder: BANKNIFTY 146265 option-minutes / 185 contracts
+Parquet files : 104 (store/) + ai_ready/
+CSV files     : 8 (chain_15min/) + per-index CSV; README_EXPORT.txt aur README_FOR_AI.md padho
+Valid days    : 300 (poore data mein, health.csv dekho)
+API calls     : 282 (retries 0, 429 0, avg 202/min)
+Failed chunks : 0
+Day status    : COMPLETE 16, NOT_YET_SERVED 4 (day_status.csv, holes.csv)
+Strategy-ready (index-din): price-data READY 4, PARTIAL 0, MISSING 0 | events + bid/ask ke saath READY 0 (strategy_ready_days.csv)
