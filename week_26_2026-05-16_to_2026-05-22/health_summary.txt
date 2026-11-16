@@ -1,0 +1,13 @@
+UPDL HEALTH SUMMARY
+OK entries: 5 | PROVISIONAL entries: 0 | NOT OK entries: 0
+Valid trading days: 123 (>=125 target met: False)
+Oldest valid day: 2026-05-18 | Newest valid day: 2026-11-12
+Modal Last Bar Per Class Per Week:
+  nse_index_fo 2026-W21: 15:29
+  nse_spot_index 2026-W21: 15:29
+BHAVCOPY RECONCILIATION: NA-DATA
+2026-05-18  BANKNIFTY  OK  CLEAN
+2026-05-19  BANKNIFTY  OK  CLEAN
+2026-05-20  BANKNIFTY  OK  CLEAN
+2026-05-21  BANKNIFTY  OK  CLEAN
+2026-05-22  BANKNIFTY  OK  CLEAN
