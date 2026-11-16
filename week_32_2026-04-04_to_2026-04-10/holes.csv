@@ -1,0 +1,7 @@
+trading_date,underlying,table,status,detail
+2026-04-06,BANKNIFTY,opt_wide_1m,NOT_DOWNLOADED,nothing requested for this table and day
+2026-04-07,BANKNIFTY,opt_wide_1m,NOT_DOWNLOADED,nothing requested for this table and day
+2026-11-16,BANKNIFTY,fut_1m,NOT_YET_SERVED,Upstox has not served this session yet; the next continue retries it
+2026-11-16,BANKNIFTY,opt_1m,NOT_YET_SERVED,Upstox has not served this session yet; the next continue retries it
+2026-11-16,BANKNIFTY,opt_wide_1m,NOT_YET_SERVED,Upstox has not served this session yet; the next continue retries it
+2026-11-16,BANKNIFTY,spot_1m,NOT_YET_SERVED,Upstox has not served this session yet; the next continue retries it
