@@ -1,0 +1,10 @@
+UPDL HAFTA week_86_2025-03-22_to_2025-03-28
+Hafta window  : 2025-03-22 se 2025-03-28
+Har index ka folder: BANKNIFTY 143820 option-minutes / 154 contracts
+Parquet files : 130 (store/) + ai_ready/
+CSV files     : 10 (chain_15min/) + per-index CSV; README_EXPORT.txt aur README_FOR_AI.md padho
+Valid days    : 398 (poore data mein, health.csv dekho)
+API calls     : 242 (retries 0, 429 0, avg 76/min)
+Failed chunks : 0
+Day status    : COMPLETE 20, NOT_YET_SERVED 4 (day_status.csv, holes.csv)
+Strategy-ready (index-din): price-data READY 5, PARTIAL 0, MISSING 0 | events + bid/ask ke saath READY 0 (strategy_ready_days.csv)
