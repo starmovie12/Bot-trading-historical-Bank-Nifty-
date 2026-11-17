@@ -1,0 +1,15 @@
+UPDL HEALTH SUMMARY
+OK entries: 6 | PROVISIONAL entries: 0 | NOT OK entries: 0
+Valid trading days: 432 (>=125 target met: True)
+Oldest valid day: 2025-02-01 | Newest valid day: 2026-11-12
+Modal Last Bar Per Class Per Week:
+  nse_index_fo 2025-W06: 15:29
+  nse_spot_index 2025-W05: 15:29
+  nse_spot_index 2025-W06: 15:29
+BHAVCOPY RECONCILIATION: NA-DATA
+2025-02-01  BANKNIFTY  OK  UNEXPECTED_SESSION_DAY
+2025-02-03  BANKNIFTY  OK  CLEAN
+2025-02-04  BANKNIFTY  OK  CLEAN
+2025-02-05  BANKNIFTY  OK  CLEAN
+2025-02-06  BANKNIFTY  OK  CLEAN
+2025-02-07  BANKNIFTY  OK  CLEAN
